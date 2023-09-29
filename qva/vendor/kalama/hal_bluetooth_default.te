@@ -1,0 +1,2 @@
+#============= hal_bluetooth_default ==============
+get_prop(hal_bluetooth_default, boot_status_prop)
